@@ -37,8 +37,6 @@ const App: React.FC = () => {
   return (
     <div className={styles.app}>
       <header className={styles.header}>
-        <div className={styles.boxicon}></div>
-        <div className={styles.boxicon}></div>
       </header>
       <div className={styles.body}>
         <div className={styles.row}>
