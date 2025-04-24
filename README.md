@@ -33,11 +33,6 @@ Familiar React application structure, just with `electron` folder on the top :wi
 │       ├── installerIcon.ico     Icon for the application installer
 │       └── uninstallerIcon.ico   Icon for the application uninstaller
 │
-├── release                   Generated after production build, contains executables
-│   └── {version}
-│       ├── {os}-unpacked     Contains unpacked application executable
-│       └── Setup.{ext}       Installer for the application
-│
 ├── public                    Static assets
 └── src                       Renderer source code, your React application
 ```
