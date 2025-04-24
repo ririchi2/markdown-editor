@@ -1,6 +1,5 @@
 # Markdown Editor
 ## Used with [electron-vite-react](https://github.com/electron-vite/electron-vite-react)
-English | [简体中文](README.zh-CN.md)
 
 ## 👀 Overview
 
